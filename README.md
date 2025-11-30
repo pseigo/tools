@@ -4,14 +4,14 @@
  
 |||
 |:-|:-|
-| [tanaris-js](https://github.com/pseigo/tanaris-js) | _utils for client-side JS_ |
+| [tanaris-js](https://github.com/pseigo/tanaris-js) | utils for client-side JS |
 
 #### templates
 
 |||
 |:-|:-|
-| [react-ts-template](https://github.com/pseigo/react-ts-template) | _typescript, jest, eslint, prettier, esbuild, swc, react, tailwind, express (dev server)_ |
-| [html-one-column-full-width-sections](https://github.com/pseigo/html-one-column-full-width-sections) | _responsive one-column layout with full-width sections and asides_ |
+| [react-ts-template](https://github.com/pseigo/react-ts-template) | _dependencies:_ <br> <ul><li>**client**: _react, wouter, clsx, tanaris_</li> <li>**dev**: _typescript, eslint, prettier, esbuild, jest, swc, tailwind, postcss, express (dev server), typebox & ajv (config validation)_</li></ul> |
+| [html-one-column-full-width-sections](https://github.com/pseigo/html-one-column-full-width-sections) | responsive, one-column layout <br> <ul><li>_full-width sections_</li> <li>_asides_</li></ul> |
 
 ---
 
