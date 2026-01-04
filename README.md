@@ -6,7 +6,7 @@ _[tech](https://github.com/pseigo/)  ~  [**tools**](https://github.com/pseigo/to
 
 ### Libraries, templates, and snippets
 
-- [JavaScript, HTML/CSS](#javascript-html--css)
+- [JavaScript, HTML / CSS](#javascript-html--css)
 
 #### JavaScript, HTML / CSS
 
