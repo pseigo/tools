@@ -1,5 +1,3 @@
-A collection of openly available software I've written or made significant contributions to that others may find useful.
-
 _[tech](https://github.com/pseigo/)  ~  [**tools**](https://github.com/pseigo/tools/blob/main/README.md)  ~  [doodles](https://github.com/pseigo/faire/blob/main/README.md)_
 
 ---
